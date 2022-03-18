@@ -20,7 +20,7 @@
 
 <br>
 
-> **Made By [S3CR3TS](https://github.com/SecretsX) & [CooKey-Monster](https://github.com/CooKey-Monster)**
+> **Made in [QU33N5](https://github.com/QU33N5) organization by [S3CR3TS](https://github.com/SecretsX) & [CooKey-Monster](https://github.com/CooKey-Monster)**
 
 <br>
 
