@@ -20,4 +20,8 @@
 
 <br>
 
-<p align="center"><sub><b>Whiz・Using Discord The Way It Should Have Been</b></sub></p>
+> **Made By [S3CR3TS](https://github.com/SecretsX) & [CooKey-Monster](https://github.com/CooKey-Monster)**
+
+<br>
+
+<p align="center"><sub><b>Whiz・Using Discord The Way It Should Be</b></sub></p>
