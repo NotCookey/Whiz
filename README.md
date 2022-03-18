@@ -24,4 +24,4 @@
 
 <br>
 
-<p align="center"><sub><b>Whiz・Using Discord The Way It Should Be</b></sub></p>
+<p align="center"><sub><b>Whiz - Using Discord The Way It Should Be</b></sub></p>
