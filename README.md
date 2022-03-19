@@ -18,6 +18,9 @@
 > 5. Run the `Whiz.py` file
 > 6. The default prefix is `?`, You can change it in the `CONFIG.ini` file
 
+> ### If the bot still doesn't work after entering a token
+> 1. Do `py -m pip uninstall discord.py`, and then `py -m pip install --upgrade --force-reinstall discord.py-self`
+
 <br>
 
 > **Made by [S3CR3TS](https://github.com/SecretsX) & [CooKey-Monster](https://github.com/CooKey-Monster)**
