@@ -23,7 +23,7 @@
 
 <br>
 
-> **Made by [S3CR3TS](https://github.com/SecretsX) & [CooKey-Monster](https://github.com/CooKey-Monster)**
+> **Made by [Cookey](https://github.com/NotCookey) & [CooKey-Monster](https://github.com/CooKey-Monster)**
 
 <br>
 
